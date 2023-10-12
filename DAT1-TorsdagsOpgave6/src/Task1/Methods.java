@@ -4,21 +4,31 @@ public class Methods
 {
     public void methodA()
     {
-        System.out.println("a");
+        System.out.print("j ");
+        System.out.print("a ");
+        System.out.print("v ");
+        methodB();
     }
 
     public void methodB()
     {
-        System.out.println("b");
+        System.out.print("a ");
+        System.out.print("e ");
+        System.out.print("r ");
+        methodC();
     }
 
     public void methodC()
     {
-        System.out.println("c");
+        System.out.print("s ");
+        System.out.print("j ");
+        System.out.print("o ");
+        methodD();
     }
 
     public void methodD()
     {
-        System.out.println("d");
+        System.out.print("v ");
+        System.out.print("t ");
     }
 }

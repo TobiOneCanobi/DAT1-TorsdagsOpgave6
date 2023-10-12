@@ -7,9 +7,7 @@ public class Main
         Methods methods = new Methods();
 
         methods.methodA();
-        methods.methodB();
-        methods.methodC();
-        methods.methodD();
+
 
     }
 }
